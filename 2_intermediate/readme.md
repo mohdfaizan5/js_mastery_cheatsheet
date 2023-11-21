@@ -1,0 +1,26 @@
+- Conditions
+- If 
+- else
+- else-if
+- truthy vs falsy
+- loops
+- for while
+- foreach forin
+- functions
+- callback funcs
+- what is first class funcs
+- params vs args
+- arrays
+  - puush
+  - pop 
+  - shift
+  - unshift
+  - How arrays are made behind the scenes and Reality
+  - Why we can make negative index arrays in js
+  - Practice questions and scenarios
+  - objects
+    - For in objs
+  - props vs methods
+  - Updating objects properties
+  - How to delete object prop
+  - Practice question

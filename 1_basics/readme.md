@@ -1,0 +1,17 @@
+What is js
+- word vs keyword
+- var const let
+  - the difference
+- Windows objects
+- Browser context api
+- Stack
+- Heap memory
+- execution context
+- lexical environment
+- hoisting
+- types in js
+- how to copy refernce values
+- conditionals
+- if else
+- else
+- 

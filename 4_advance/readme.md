@@ -1,20 +1,10 @@
-here you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you go
-
-
-here you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you go
-
-
-
-here you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you go
-
-
-
-here you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you go
-
-
-
-
-here you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you gohere you go
-
-
-<h3 id="here">THi si the </h3>
+High order funcs
+constructor funcs
+first class funcs
+new keywod 
+iife
+prototype
+prototype inheritance
+this call apply bind
+pure and impure funcs
+closures
